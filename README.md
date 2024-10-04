@@ -1,2 +1,2 @@
 # JLH_VERSION
-Version control file for plugins
+Version control file for JLH plugins

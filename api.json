@@ -1,0 +1,11 @@
+{
+    "moneywash": {
+        "version": "1.0.1",
+        "description": "Need Support Join https://discord.gg/justlikehome",
+        "changelog": [
+            "Picking up where zap left off since their store went down.",
+            "Reworking code 10-4-2024",
+            "(1.0.1) Attempting to fix the moneyworth within the new qb"
+        ]
+    }
+}
